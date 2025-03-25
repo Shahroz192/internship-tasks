@@ -1,1 +1,4 @@
 .qodo
+.env
+.ruff_cache/
+.vscode/
