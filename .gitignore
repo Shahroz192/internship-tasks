@@ -1,4 +1,5 @@
 .qodo
 .env
 .ruff_cache/
-.vscode/
+.vscode
+__pycache__

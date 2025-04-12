@@ -1,5 +1,4 @@
 from langchain_google_genai.chat_models import ChatGoogleGenerativeAI
-from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 

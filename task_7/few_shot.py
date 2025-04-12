@@ -1,4 +1,3 @@
-from math import e
 from langchain.prompts import PromptTemplate, FewShotPromptTemplate
 from langchain_google_genai.chat_models import ChatGoogleGenerativeAI
 from dotenv import load_dotenv

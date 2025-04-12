@@ -1,0 +1,306 @@
+Date,Category,Description,Amount
+2025-01-01,Food,Groceries,45.50
+2025-01-01,Entertainment,Streaming subscription,12.99
+2025-01-02,Food,Coffee shop,6.75
+2025-01-02,Transport,Bus fare,2.50
+2025-01-03,Food,Lunch out,15.20
+2025-01-03,Miscellaneous,Book purchase,22.00
+2025-01-04,Food,Groceries,38.90
+2025-01-04,Transport,Gas,25.00
+2025-01-05,Food,Dinner takeout,18.50
+2025-01-06,Food,Coffee shop,5.50
+2025-01-06,Utilities,Electricity bill portion,8.00
+2025-01-07,Food,Groceries,42.30
+2025-01-07,Transport,Rideshare,12.80
+2025-01-08,Food,Lunch out,13.40
+2025-01-09,Food,Coffee shop,6.25
+2025-01-09,Health,Gym membership,35.00
+2025-01-10,Food,Groceries,50.10
+2025-01-10,Transport,Bus fare,2.50
+2025-01-11,Food,Dinner with friends,28.75
+2025-01-11,Entertainment,Movie ticket,14.50
+2025-01-12,Food,Coffee shop,5.80
+2025-01-13,Food,Groceries,39.60
+2025-01-13,Transport,Gas,27.50
+2025-01-14,Food,Lunch out,11.90
+2025-01-15,Food,Coffee shop,6.00
+2025-01-15,Utilities,Internet bill portion,5.00
+2025-01-16,Food,Groceries,46.20
+2025-01-16,Transport,Rideshare,15.30
+2025-01-17,Food,Dinner takeout,19.80
+2025-01-18,Food,Coffee shop,5.95
+2025-01-18,Miscellaneous,Clothing,55.00
+2025-01-19,Food,Groceries,41.70
+2025-01-19,Transport,Bus fare,2.50
+2025-01-20,Food,Lunch out,14.60
+2025-01-21,Food,Coffee shop,6.10
+2025-01-21,Entertainment,Concert ticket,45.00
+2025-01-22,Food,Groceries,48.50
+2025-01-22,Transport,Gas,26.80
+2025-01-23,Food,Dinner out,22.30
+2025-01-24,Food,Coffee shop,5.70
+2025-01-24,Health,Pharmacy,18.90
+2025-01-25,Food,Groceries,37.40
+2025-01-25,Transport,Rideshare,13.50
+2025-01-26,Food,Lunch out,12.80
+2025-01-27,Food,Coffee shop,6.30
+2025-01-27,Utilities,Water bill portion,4.00
+2025-01-28,Food,Groceries,44.10
+2025-01-28,Transport,Bus fare,2.50
+2025-01-29,Food,Dinner takeout,17.60
+2025-01-30,Food,Coffee shop,5.90
+2025-01-30,Miscellaneous,Gift purchase,30.00
+2025-01-31,Food,Groceries,49.80
+2025-01-31,Transport,Gas,28.20
+2025-02-01,Food,Lunch out,13.70
+2025-02-01,Entertainment,Streaming subscription,12.99
+2025-02-02,Food,Coffee shop,6.50
+2025-02-02,Transport,Rideshare,14.10
+2025-02-03,Food,Groceries,40.30
+2025-02-04,Food,Dinner out,20.50
+2025-02-04,Utilities,Electricity bill portion,8.00
+2025-02-05,Food,Coffee shop,5.80
+2025-02-05,Transport,Bus fare,2.50
+2025-02-06,Food,Groceries,47.90
+2025-02-06,Health,Doctor visit,60.00
+2025-02-07,Food,Lunch out,12.40
+2025-02-08,Food,Coffee shop,6.20
+2025-02-08,Transport,Gas,25.70
+2025-02-09,Food,Groceries,38.50
+2025-02-09,Entertainment,Museum entry,18.00
+2025-02-10,Food,Dinner takeout,19.20
+2025-02-11,Food,Coffee shop,5.95
+2025-02-11,Transport,Rideshare,11.90
+2025-02-12,Food,Groceries,45.60
+2025-02-12,Utilities,Internet bill portion,5.00
+2025-02-13,Food,Lunch out,14.30
+2025-02-14,Food,Coffee shop,6.40
+2025-02-14,Miscellaneous,Valentine’s gift,35.00
+2025-02-15,Food,Groceries,41.20
+2025-02-15,Transport,Bus fare,2.50
+2025-02-16,Food,Dinner out,23.80
+2025-02-17,Food,Coffee shop,6.00
+2025-02-17,Health,Gym membership,35.00
+2025-02-18,Food,Groceries,50.40
+2025-02-18,Transport,Gas,27.10
+2025-02-19,Food,Lunch out,13.50
+2025-02-20,Food,Coffee shop,5.70
+2025-02-20,Entertainment,Game purchase,29.99
+2025-02-21,Food,Groceries,39.80
+2025-02-21,Transport,Rideshare,12.60
+2025-02-22,Food,Dinner takeout,18.90
+2025-02-23,Food,Coffee shop,6.10
+2025-02-23,Utilities,Water bill portion,4.00
+2025-02-24,Food,Groceries,46.70
+2025-02-24,Transport,Bus fare,2.50
+2025-02-25,Food,Lunch out,12.90
+2025-02-26,Food,Coffee shop,5.85
+2025-02-26,Miscellaneous,Home decor,42.00
+2025-02-27,Food,Groceries,43.30
+2025-02-27,Transport,Gas,26.40
+2025-02-28,Food,Dinner out,21.60
+2025-03-01,Food,Coffee shop,6.25
+2025-03-01,Entertainment,Streaming subscription,12.99
+2025-03-02,Food,Groceries,48.10
+2025-03-02,Transport,Rideshare,13.80
+2025-03-03,Food,Lunch out,14.70
+2025-03-04,Food,Coffee shop,5.90
+2025-03-04,Utilities,Electricity bill portion,8.00
+2025-03-05,Food,Groceries,40.90
+2025-03-05,Transport,Bus fare,2.50
+2025-03-06,Food,Dinner takeout,19.50
+2025-03-07,Food,Coffee shop,6.30
+2025-03-07,Health,Pharmacy,22.40
+2025-03-08,Food,Groceries,47.20
+2025-03-08,Transport,Gas,28.50
+2025-03-09,Food,Lunch out,13.20
+2025-03-10,Food,Coffee shop,5.80
+2025-03-10,Entertainment,Concert ticket,50.00
+2025-03-11,Food,Groceries,41.80
+2025-03-11,Transport,Rideshare,12.30
+2025-03-12,Food,Dinner out,24.10
+2025-03-13,Food,Coffee shop,6.00
+2025-03-13,Utilities,Internet bill portion,5.00
+2025-03-14,Food,Groceries,49.50
+2025-03-14,Transport,Bus fare,2.50
+2025-03-15,Food,Lunch out,14.90
+2025-03-16,Food,Coffee shop,6.20
+2025-03-16,Miscellaneous,Tech accessory,38.00
+2025-03-17,Food,Groceries,42.60
+2025-03-17,Transport,Gas,27.80
+2025-03-18,Food,Dinner takeout,18.30
+2025-03-19,Food,Coffee shop,5.95
+2025-03-19,Health,Gym membership,35.00
+2025-03-20,Food,Groceries,46.80
+2025-03-20,Transport,Rideshare,14.50
+2025-03-21,Food,Lunch out,13.80
+2025-03-22,Food,Coffee shop,6.10
+2025-03-22,Entertainment,Movie ticket,15.00
+2025-03-23,Food,Groceries,39.40
+2025-03-23,Transport,Bus fare,2.50
+2025-03-24,Food,Dinner out,22.70
+2025-03-25,Food,Coffee shop,5.85
+2025-03-25,Utilities,Water bill portion,4.00
+2025-03-26,Food,Groceries,48.30
+2025-03-26,Transport,Gas,26.90
+2025-03-27,Food,Lunch out,12.50
+2025-03-28,Food,Coffee shop,6.40
+2025-03-28,Miscellaneous,Shoes,65.00
+2025-03-29,乳Food,Groceries,41.90
+2025-03-29,Transport,Rideshare,13.20
+2025-03-30,Food,Dinner takeout,19.70
+2025-03-31,Food,Coffee shop,6.00
+2025-03-31,Entertainment,Streaming subscription,12.99
+2025-04-01,Food,Groceries,47.60
+2025-04-01,Transport,Bus fare,2.50
+2025-04-02,Food,Lunch out,14.20
+2025-04-03,Food,Coffee shop,5.90
+2025-04-03,Utilities,Electricity bill portion,8.00
+2025-04-04,Food,Groceries,40.50
+2025-04-04,Transport,Gas,28.10
+2025-04-05,Food,Dinner out,23.40
+2025-04-06,Food,Coffee shop,6.30
+2025-04-06,Health,Pharmacy,20.80
+2025-04-07,Food,Groceries,49.20
+2025-04-07,Transport,Rideshare,12.90
+2025-04-08,Food,Lunch out,13.60
+2025-04-09,Food,Coffee shop,5.95
+2025-04-09,Entertainment,Game purchase,39.99
+2025-04-10,Food,Groceries,42.40
+2025-04-10,Transport,Bus fare,2.50
+2025-04-11,Food,Dinner takeout,18.60
+2025-04-12,Food,Coffee shop,6.20
+2025-04-12,Miscellaneous,Gift purchase,45.00
+2025-04-13,Food,Groceries,46.90
+2025-04-13,Transport,Gas,27.30
+2025-04-14,Food,Lunch out,14.80
+2025-04-15,Food,Coffee shop,6.00
+2025-04-15,Utilities,Internet bill portion,5.00
+2025-04-16,Food,Groceries,41.30
+2025-04-16,Transport,Rideshare,13.70
+2025-04-17,Food,Dinner out,21.90
+2025-04-18,Food,Coffee shop,5.85
+2025-04-18,Health,Gym membership,35.00
+2025-04-19,Food,Groceries,50.00
+2025-04-19,Transport,Bus fare,2.50
+2025-04-20,Food,Lunch out,12.70
+2025-04-21,Food,Coffee shop,6.40
+2025-04-21,Entertainment,Museum entry,20.00
+2025-04-22,Food,Groceries,43.80
+2025-04-22,Transport,Gas,26.60
+2025-04-23,Food,Dinner takeout,19.10
+2025-04-24,Food,Coffee shop,5.90
+2025-04-24,Utilities,Water bill portion,4.00
+2025-04-25,Food,Groceries,48.70
+2025-04-25,Transport,Rideshare,14.20
+2025-04-26,Food,Lunch out,13.30
+2025-04-27,Food,Coffee shop,6.10
+2025-04-27,Miscellaneous,Home appliance,75.00
+2025-04-28,Food,Groceries,40.20
+2025-04-28,Transport,Bus fare,2.50
+2025-04-29,Food,Dinner out,22.50
+2025-04-30,Food,Coffee shop,6.25
+2025-04-30,Entertainment,Streaming subscription,12.99
+2025-05-01,Food,Groceries,47.10
+2025-05-01,Transport,Gas,28.40
+2025-05-02,Food,Lunch out,14.50
+2025-05-03,Food,Coffee shop,5.95
+2025-05-03,Utilities,Electricity bill portion,8.00
+2025-05-04,Food,Groceries,41.60
+2025-05-04,Transport,Rideshare,12.50
+2025-05-05,Food,Dinner takeout,18.80
+2025-05-06,Food,Coffee shop,6.30
+2025-05-06,Health,Doctor visit,70.00
+2025-05-07,Food,Groceries,49.90
+2025-05-07,Transport,Bus fare,2.50
+2025-05-08,Food,Lunch out,13.90
+2025-05-09,Food,Coffee shop,6.00
+2025-05-09,Entertainment,Concert ticket,55.00
+2025-05-10,Food,Groceries,42.70
+2025-05-10,Transport,Gas,27.90
+2025-05-11,Food,Dinner out,23.20
+2025-05-12,Food,Coffee shop,5.85
+2025-05-12,Utilities,Internet bill portion,5.00
+2025-05-13,Food,Groceries,46.40
+2025-05-13,Transport,Rideshare,13.10
+2025-05-14,Food,Lunch out,12.60
+2025-05-15,Food,Coffee shop,6.20
+2025-05-15,Miscellaneous,Clothing,60.00
+2025-05-16,Food,Groceries,40.80
+2025-05-16,Transport,Bus fare,2.50
+2025-05-17,Food,Dinner takeout,19.40
+2025-05-18,Food,Coffee shop,6.10
+2025-05-18,Health,Gym membership,35.00
+2025-05-19,Food,Groceries,48.60
+2025-05-19,Transport,Gas,26.70
+2025-05-20,Food,Lunch out,14.10
+2025-05-21,Food,Coffee shop,5.90
+2025-05-21,Entertainment,Movie ticket,15.50
+2025-05-22,Food,Groceries,41.50
+2025-05-22,Transport,Rideshare,14.80
+2025-05-23,Food,Dinner out,22.80
+2025-05-24,Food,Coffee shop,6.40
+2025-05-24,Utilities,Water bill portion,4.00
+2025-05-25,Food,Groceries,49.30
+2025-05-25,Transport,Bus fare,2.50
+2025-05-26,Food,Lunch out,13.40
+2025-05-27,Food,Coffee shop,6.00
+2025-05-27,Miscellaneous,Tech gadget,80.00
+2025-05-28,Food,Groceries,42.20
+2025-05-28,Transport,Gas,28.00
+2025-05-29,Food,Dinner takeout,18.50
+2025-05-30,Food,Coffee shop,5.95
+2025-05-30,Entertainment,Streaming subscription,12.99
+2025-05-31,Food,Groceries,47.80
+2025-05-31,Transport,Rideshare,13.60
+2025-06-01,Food,Lunch out,14.60
+2025-06-02,Food,Coffee shop,6.20
+2025-06-02,Utilities,Electricity bill portion,8.00
+2025-06-03,Food,Groceries,40.70
+2025-06-03,Transport,Bus fare,2.50
+2025-06-04,Food,Dinner out,23.90
+2025-06-05,Food,Coffee shop,6.10
+2025-06-05,Health,Pharmacy,19.70
+2025-06-06,Food,Groceries,48.50
+2025-06-06,Transport,Gas,27.20
+2025-06-07,Food,Lunch out,13.80
+2025-06-08,Food,Coffee shop,5.90
+2025-06-08,Entertainment,Game purchase,49.99
+2025-06-09,Food,Groceries,41.40
+2025-06-09,Transport,Rideshare,12.70
+2025-06-10,Food,Dinner takeout,19.00
+2025-06-11,Food,Coffee shop,6.30
+2025-06-11,Miscellaneous,Home decor,50.00
+2025-06-12,Food,Groceries,46.20
+2025-06-12,Transport,Bus fare,2.50
+2025-06-13,Food,Lunch out,14.30
+2025-06-14,Food,Coffee shop,6.00
+2025-06-14,Utilities,Internet bill portion,5.00
+2025-06-15,Food,Groceries,49.70
+2025-06-15,Transport,Gas,28.60
+2025-06-16,Food,Dinner out,22.40
+2025-06-17,Food,Coffee shop,5.95
+2025-06-17,Health,Gym membership,35.00
+2025-06-18,Food,Groceries,42.90
+2025-06-18,Transport,Rideshare,13.90
+2025-06-19,Food,Lunch out,12.80
+2025-06-20,Food,Coffee shop,6.40
+2025-06-20,Entertainment,Museum entry,22.00
+2025-06-21,Food,Groceries,47.40
+2025-06-21,Transport,Bus fare,2.50
+2025-06-22,Food,Dinner takeout,18.70
+2025-06-23,Food,Coffee shop,6.10
+2025-06-23,Utilities,Water bill portion,4.00
+2025-06-24,Food,Groceries,41.00
+2025-06-24,Transport,Gas,27.50
+2025-06-25,Food,Lunch out,14.90
+2025-06-26,Food,Coffee shop,5.85
+2025-06-26,Miscellaneous,Clothing,70.00
+2025-06-27,Food,Groceries,48.80
+2025-06-27,Transport,Rideshare,14.40
+2025-06-28,Food,Dinner out,23.60
+2025-06-29,Food,Coffee shop,6.20
+2025-06-29,Entertainment,Streaming subscription,12.99
+2025-06-30,Food,Groceries,43.50
+2025-06-30,Transport,Bus fare,2.50
+2025-07-01,Food,Lunch out,14.70
